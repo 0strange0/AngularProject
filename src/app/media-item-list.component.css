@@ -1,0 +1,42 @@
+.medium-movies{
+    background-color: #1b2b3b;
+    color: #4da6ff;
+    float: left;
+    width: 160px;
+    height: 230px;
+    padding: 10px;
+    font-family:  Arial, sans-serif;
+    display: grid;
+    opacity: 0.7;
+    border: 2px solid #4da6ff;
+    border-radius: 2px;
+    margin: 10px;
+
+}
+
+.medium-series{
+    background-color: #1b2b3b;
+    color: #00e673;
+    float: left;
+    width: 160px;
+    height: 230px;
+    padding: 10px;
+    font-family:  Arial, sans-serif;
+    display: grid;
+    opacity: 0.7;
+    border: 2px solid #00e673;
+    border-radius: 2px;
+    margin: 10px;
+
+}
+.add{
+    height: 80px;
+    width: 80px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #1b2b3b;
+    border-radius: 50%;
+    opacity: 50%;
+    
+}

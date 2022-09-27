@@ -1,0 +1,39 @@
+header{
+    text-align: center;
+}
+.mwForm{
+    padding: 0px;
+    color: aliceblue;
+    
+}
+.error{
+    color: rgb(212, 5, 5);
+    font-weight: bold;
+}
+button[disabled]{
+    background-color: #333333;
+    color: #535252;
+  }
+form{
+    padding: 0px;
+}
+input , select{
+    background-color: #1b2b3b;
+    color: aliceblue;
+    padding: 5px;
+    margin: 8px 0;
+    border: 1px  ;
+    border-radius: 4px;
+}
+button{
+    padding: 10px;
+    color: aliceblue;
+    margin-bottom:    20px ;
+    background-color: #04944c;
+    border: 0px;
+    border-radius: 5px;
+}
+
+ul {
+    padding: 0px;
+}

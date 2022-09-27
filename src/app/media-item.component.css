@@ -1,0 +1,42 @@
+
+
+.delete{
+    
+    background-color: red;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+}
+.details{
+    background-color: green;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.tools{
+    padding-top: 5px;  
+     
+}
+
+
+
+h2{
+    height: 30px;
+    margin-top: 1px;
+}
+
+.info{
+    line-height: 25px;
+    color: aliceblue;
+    padding-top: 40px;
+
+}
+
+.is-favorite{
+    color: tomato;
+}
+
+.is-favorite-hovering:hover{
+    color: red;
+}
